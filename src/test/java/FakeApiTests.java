@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-public class FakeApiTest {
+public class FakeApiTests {
 
 
     @Test
